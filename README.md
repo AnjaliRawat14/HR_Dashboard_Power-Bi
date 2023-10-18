@@ -1,5 +1,5 @@
 # HR_Dashboard_Power-Bi
-![2023-10-19 (2)](https://github.com/AnjaliRawat14/HR_Dashboard_Power-Bi/assets/147641488/a865c45d-242e-49ea-8ee9-983fec1bd28b)
+![HR DASHBOARD](https://github.com/AnjaliRawat14/HR_Dashboard_Power-Bi/assets/147641488/0b50f0cc-b291-43c6-8e45-10ae004d9366)
 
 
 ![HR DASHBOARD png 2](https://github.com/AnjaliRawat14/HR_Dashboard_Power-Bi/assets/147641488/aa98264d-3102-402d-896a-6a9891876ae2)
